@@ -41,7 +41,7 @@ const datosDOFA = [
 
 function Diagnostico() {
   return (
-    <div className="p-6">
+    <div className="p-9">
       <h1 className="text-2xl font-bold mb-4 font-poppins text-[#7e22ce]">1. DIAGNÓSTICO ACTUAL</h1>
       
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">

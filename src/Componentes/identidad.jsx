@@ -3,7 +3,7 @@ import React from 'react';
 function Identidad() {
     return (
         <div className="p-4 sm:p-6 md:p-8 lg:p-10">
-            <h1 className="font-poppins p-4 flex justify-center text-2xl text-[#7e22ce]"> <strong>IDENTIDAD ORGANIZACIONAL</strong></h1>
+            <h1 className="text-2xl font-bold mb-4 font-poppins text-[#7e22ce]"> <strong>2. IDENTIDAD ORGANIZACIONAL</strong></h1>
             <h2 className="font-poppins font-bold p-2 text-2xl text-[#a78bfa]"> Misión</h2>
             <p className="p-6 font-poppins text-justify ">
                 Nuestra misión es fomentar el amor por la lectura y
