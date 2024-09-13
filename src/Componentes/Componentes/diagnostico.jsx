@@ -46,8 +46,8 @@ function Diagnostico() {
       
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         {datosDOFA.map((categoria) => (
-          <div key={categoria.id} className="border border-[#c4b5fd] p-4 rounded">
-            <h2 className="text-xl font-bold mb-2 font-poppins text-[#a78bfa]">{categoria.type}</h2>
+          <div key={categoria.id} className="border border-[#c4b5fd] p-4 rounded ">
+            <h2 className="text-xl font-bold mb-2 font-poppins text-[#a78bfa] ">{categoria.type}</h2>
             <ul>
               {categoria.items.map((item) => (
                 <li key={item.id}>{item.id}. {item.description}</li>
