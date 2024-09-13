@@ -8,8 +8,7 @@ function Intro() {
         <strong>The Book House</strong> es una plataforma de comercio electrónico C2C (cliente a cliente) 
         dedicada a la compra y venta de libros entre usuarios. En este espacio, los lectores pueden 
         no solo encontrar nuevos títulos, sino también vender aquellos libros que ya no necesitan,
-        fomentando el intercambio y reutilización de obras literarias. Este enfoque facilita que c
-        ualquier persona, desde cualquier lugar, acceda a una gran variedad de libros,
+        fomentando el intercambio y reutilización de obras literarias. Este enfoque facilita que cualquier persona, desde cualquier lugar, acceda a una gran variedad de libros,
         creando una comunidad dinámica centrada en el amor por la lectura y la sostenibilidad.
         </p>
 

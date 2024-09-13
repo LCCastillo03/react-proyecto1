@@ -5,17 +5,17 @@ const datosDOFA = [
     id: 1,
     type: "Debilidades",
     items: [
-      { id: 1, description: "Dependencia de la participación activa de los usuarios" },
-      { id: 2, description: "Problemas de calidad y verificación de libros" },
-      { id: 3, description: "Falta de experiencia en comercio electrónico C2C" },
+      { id: 1, description: "Dependencia de la participación activa de los usuarios." },
+      { id: 2, description: "Problemas de calidad y verificación de libros." },
+      { id: 3, description: "Falta de experiencia en comercio electrónico C2C." },
     ],
   },
   {
     id: 2,
     type: "Oportunidades",
     items: [
-      { id: 1, description: "Crecimiento en la conciencia sobre sostenibilidad" },
-      { id: 2, description: "Expansión a nuevos mercados y comunidades" },
+      { id: 1, description: "Crecimiento en la conciencia sobre sostenibilidad." },
+      { id: 2, description: "Expansión a nuevos mercados y comunidades." },
       { id: 3, description: "Integración de tecnología avanzada, uso de IA para recomendar libros basado en tus gustos literarios." },
     ],
   },
@@ -23,18 +23,18 @@ const datosDOFA = [
     id: 3,
     type: "Fortalezas",
     items: [
-      { id: 1, description: "La plataforma está alineada con tendencias crecientes hacia la sostenibilidad y el consumo responsable" },
-      { id: 2, description: "Diversidad en la oferta" },
-      { id: 3, description: "Comunidad centrada en la lectura" },
+      { id: 1, description: "La plataforma está alineada con tendencias crecientes hacia la sostenibilidad y el consumo responsable." },
+      { id: 2, description: "Diversidad en la oferta." },
+      { id: 3, description: "Comunidad centrada en la lectura." },
     ],
   },
   {
     id: 4,
     type: "Amenazas",
     items: [
-      { id: 1, description: "Competencia de grandes plataformas de libros" },
-      { id: 2, description: "Problemas de seguridad y fraudes" },
-      { id: 3, description: "Nuevas leyes y regulaciones sobre comercio electrónico, protección al consumidor y derechos de autor" },
+      { id: 1, description: "Competencia de grandes plataformas de libros." },
+      { id: 2, description: "Problemas de seguridad y fraudes." },
+      { id: 3, description: "Nuevas leyes y regulaciones sobre comercio electrónico, protección al consumidor y derechos de autor." },
     ],
   },
 ];
