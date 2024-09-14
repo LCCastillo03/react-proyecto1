@@ -1,15 +1,14 @@
 import { useState } from 'react'
 import './index.css'
-import Header from './Componentes/Componentes/header'
-import Intro from './Componentes/Componentes/intro'
-import Diagnostico from './Componentes/Componentes/diagnostico'
-import Identidad from './Componentes/Componentes/identidad'
-import ObjetivosEstrategicos from './Componentes/Componentes/objetivos'
-import Footer from './Componentes/Componentes/footer'
+import Header from './Componentes/Componentes/Header'
+import Intro from './Componentes/Componentes/Intro'
+import Diagnostico from './Componentes/Componentes/Diagnostic'
+import Identidad from './Componentes/Componentes/Identidad'
+import ObjetivosEstrategicos from './Componentes/Componentes/Objetivos'
+import Footer from './Componentes/Componentes/Footer'
 
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
